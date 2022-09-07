@@ -1,0 +1,12 @@
+regi?n
+tenencia
+Edad
+Estado Civil
+habla a
+ingreso
+educaci?n
+emplear
+Jubilaci?n
+g?nero
+residencia
+Grupo personalizado
